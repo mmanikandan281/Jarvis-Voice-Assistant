@@ -1,6 +1,3 @@
-Certainly! Here's a polished, concise, and well-structured README for your **JARVIS - Interactive AI Voice Assistant** project, with no repetition and including the venv setup info clearly:
-
----
 
 # JARVIS - Interactive AI Voice Assistant 🤖
 
