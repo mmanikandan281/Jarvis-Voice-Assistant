@@ -120,18 +120,6 @@ pip install pygame pyttsx3 SpeechRecognition wikipedia pyautogui pyjokes psutil 
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a branch (`git checkout -b feature-xyz`)
-3. Commit your changes (`git commit -m "Add feature xyz"`)
-4. Push the branch (`git push origin feature-xyz`)
-5. Open a Pull Request
-
-Please keep code clean, well-commented, and consistent.
-
----
-
 ## 📜 License
 
  Personal License — See the [LICENSE](LICENSE) file.
