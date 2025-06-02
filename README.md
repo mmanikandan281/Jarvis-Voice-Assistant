@@ -134,7 +134,7 @@ Please keep code clean, well-commented, and consistent.
 
 ## 📜 License
 
-MIT License — See the [LICENSE](LICENSE) file.
+ Personal License — See the [LICENSE](LICENSE) file.
 
 ---
 
