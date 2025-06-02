@@ -15,6 +15,12 @@ Welcome to **JARVIS**, your sleek, voice-activated AI assistant inspired by the 
 Watch JARVIS in action:
 [JARVIS Demo Video](https://drive.google.com/file/d/1Vq1t1NOpXUUKhTkk02JzrpGYn6Yqf1JG/view?usp=sharing)
 
+## 🎥 Demo
+
+Click the image below to watch JARVIS in action:
+
+[![JARVIS Demo](https://github.com/user-attachments/assets/e0f3ff7b-155c-4d81-a638-c5da71330d29)](https://drive.google.com/file/d/1Vq1t1NOpXUUKhTkk02JzrpGYn6Yqf1JG/view?usp=sharing)
+
 
 
 ---
