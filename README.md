@@ -1,7 +1,7 @@
 
 # JARVIS - Interactive AI Voice Assistant 🤖
 
-![Version](https://img.shields.io/badge/Version-1.0-blue.svg) ![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Version](https://img.shields.io/badge/Version-1.0-blue.svg) ![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg) ![License](https://img.shields.io/badge/License-Personal-yellow.svg)
 
 Welcome to **JARVIS**, your sleek, voice-activated AI assistant inspired by the iconic AI from Iron Man! Built with Python and Pygame, JARVIS combines a modern dark-themed UI with dynamic voice interaction, helping you with productivity, entertainment, and system control — all at your voice command! 🚀
 
